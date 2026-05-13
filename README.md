@@ -44,3 +44,6 @@ The Windows 11 virtual machine was configured in VirtualBox with:
 - NAT networking
 - TPM 2.0 enabled
 - EFI and Secure Boot enabled
+
+  <img width="1905" height="978" alt="VM Win11 Config" src="https://github.com/user-attachments/assets/a23eea81-50c6-4922-88d0-6e0b927890d7" />
+
