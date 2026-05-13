@@ -36,11 +36,11 @@ Downloaded and mounted a Windows 11 ISO file through VirtualBox storage settings
 - Build a Windows Server lab
 - Practice Active Directory and remote administration
 ---
-##Virtual Machine Configuration
+## Virtual Machine Configuration
+
 The Windows 11 virtual machine was configured in VirtualBox with:
 - 4 GB RAM
 - 80 GB virtual storage
 - NAT networking
 - TPM 2.0 enabled
 - EFI and Secure Boot enabled
-
